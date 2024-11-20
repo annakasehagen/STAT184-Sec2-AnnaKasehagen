@@ -1,0 +1,10 @@
+In the data folder there are three files: .DS_store, .gitkeep, and activity 9.R.
+
+.gitkeep is the default file put in my github to keep track of folders
+.DS_Store is a hidden file by mac
+activity 9.R is an R script
+
+The .DS_Store file store information about a folder's attributes including visual information.
+The activity 9.R file store all of the code from activity 9 of STAT 184, where we looked at 3 different datasets and created data visualizations about each of them.
+
+The purpose of this directory is just to help you understand all of the files that are stored in the data folder.
